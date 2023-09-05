@@ -1,0 +1,2 @@
+#!/bin/bash
+grep root patterns /etc/passwd
